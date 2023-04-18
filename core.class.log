@@ -1,0 +1,95 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51934422029@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01753094FC3E1236B98',
+    participant: undefined
+  },
+  messageTimestamp: 1681090643,
+  pushName: 'Jazzz⚡',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51934422029'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51934422029@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04E6EEFF4DD5361EFF9',
+    participant: undefined
+  },
+  messageTimestamp: 1681090665,
+  pushName: 'Jazzz⚡',
+  message: Message {
+    conversation: 'mas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'mas',
+  from: '51934422029'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51934422029@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C03462AF4A47E98A03',
+    participant: undefined
+  },
+  messageTimestamp: 1681090681,
+  pushName: 'Jazzz⚡',
+  message: Message {
+    conversation: 'mentor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'mentor',
+  from: '51934422029'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51934422029@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D4D0598E0FA617531B',
+    participant: undefined
+  },
+  messageTimestamp: 1681090700,
+  pushName: 'Jazzz⚡',
+  message: Message {
+    conversation: 'agendar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'agendar',
+  from: '51934422029'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51934422029@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D58A6E7B35A2280037',
+    participant: undefined
+  },
+  messageTimestamp: 1681090710,
+  pushName: 'Jazzz⚡',
+  message: Message {
+    conversation: 'jazmin.huillcagutierrez@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'jazmin.huillcagutierrez@gmail.com',
+  from: '51934422029'
+}
